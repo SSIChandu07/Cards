@@ -26,6 +26,7 @@ body {
 
 .card:hover {
     transform: scale(1.05);
+    cursor: crosshair;
 }
 
 .card-background {
